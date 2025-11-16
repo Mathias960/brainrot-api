@@ -1,0 +1,16 @@
+{
+  "name": "brainrot-finder-api",
+  "version": "1.0.0",
+  "description": "API gratuite pour le finder Steal a Brainrot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["roblox", "brainrot", "finder", "api"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
+
